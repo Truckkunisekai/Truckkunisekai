@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm truckkunisekai,
+currently learning to code 
 
 <!--
 **Truckkunisekai/Truckkunisekai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
